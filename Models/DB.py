@@ -7,7 +7,7 @@ import datetime
 
 class DB(object):
 	"""Initialize mysql database """
-	host = "44.202.166.152"
+	host = "localhost"
 	user = "root"
 	password = ""
 	db = "lms"
