@@ -9,7 +9,7 @@ class DB(object):
 	"""Initialize mysql database """
 	host = "localhost"
 	user = "root"
-	password = "new_password"
+	password = "Kshitij@14"
 	db = "lms"
 	table = ""
 
